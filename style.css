@@ -17,7 +17,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 20px;
-  height: auto;
+  height: 100vh;
   
 }
 h1, h2{
@@ -36,14 +36,13 @@ h1, h2{
   font-family: var(--font);
   border-radius: 16px;
   font-size: 25px;
-  overflow: hidden;
   color: #455963;
   box-shadow: 0 20px 80px rgba(0,0,0,.3);
   view-transition-name: app
 }
 
 .task-list {
-  max-height: 60vh;
+  max-height: auto;
   overflow: auto;
 }
 
