@@ -338,7 +338,7 @@ class Todo {
   const todoList = [
     {
       id: -1,
-      name: "Basics",
+      name: "Learn Basics",
       completed: false
     },
     {
@@ -348,17 +348,17 @@ class Todo {
     },
     {
       id: -3,
-      name: "Links and Images",
+      name: "Learn Links and Images",
       completed: false
     },
     {
       id: -4,
-      name: "Tables",
+      name: "Create Tables",
       completed: false
     },
     {
       id: -5,
-      name: "Forms",
+      name: "Create Forms",
       completed: true
     },
     {

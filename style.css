@@ -20,12 +20,13 @@ body {
   height: 100vh;
   overflow: hidden;
 }
-h1{
+h1, h2{
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 50px;
 }
+
 
 .app {
   max-width: 70%;
