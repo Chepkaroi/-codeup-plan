@@ -339,12 +339,12 @@ class Todo {
     {
       id: -1,
       name: "Learn Basics",
-      completed: false
+      completed: true
     },
     {
       id: -2,
       name: "Text Formatting",
-      completed: false
+      completed: true
     },
     {
       id: -3,
