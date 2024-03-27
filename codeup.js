@@ -349,7 +349,7 @@ class Todo {
     {
       id: -3,
       name: "Learn Links and Images",
-      completed: false
+      completed: true
     },
     {
       id: -4,
